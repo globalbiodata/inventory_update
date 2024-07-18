@@ -1,4 +1,4 @@
-# First Update of the GBC Inventory first completed in 2022
+# Update of the GBC Biodata Inventory
 
 ## Work-In-Progress!
 ## Testing ML pipeline, manual review, and post-review processing
