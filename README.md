@@ -39,10 +39,10 @@
         * *Canada (12)* 
       * Notes on debatable decisions: 
         1) Provision of input files and scripts allows for reproducibility but these scripts will not be generalizable for future updates! Data and code must be reviewed/edited for any future updates to ensure countries are not missed, etc.
-        2) Geopolitical challenges should be reconsidered, e.g., Guadeloupe combined with France given it's status as a department/region; perhaps the same should be done for Hong Kong
+        2) Geopolitical challenges should be reconsidered, e.g., Guadeloupe combined with France given it's status as a department/region; perhaps the same should be done for Hong Kong?
       * Plotted maps (jpegs) using new_biodata_resources_2024_augmented.csv
   
 * To do: 
-  * Analyze updated metadata for 3112 resources identified in 2022 inventory, e.g., changes in citations and URL status
+  * Analyze updated metadata for 3112 resources identified in 2022 inventory, e.g., changes in citations and URL status?
   * Other analyses? Funders?
-  * Deposit updated inventory file(s) and manual review guide in GBC Collection in Zenodo
+  * Deposit updated inventory file(s) and manual review guide in GBC Collection in Zenodo?
