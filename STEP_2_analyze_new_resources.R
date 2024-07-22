@@ -2,8 +2,8 @@
 ## Purpose: Analyze metadata for biodata resources identified in publication years 2022 and 2023.
 ## Parts: 1) Isolate Newly ID'd Resources, 2) Augment Country from Author Affiliations, 3) Augment Country from URL Geo-coordinates, and 4) Plot Countries for Newly ID'd Resources  
 ## Package(s): tidyverse, countrycode, maps, ggplot2, ggmap
-## Input file(s): predictions_final_2024-07-12.csv, final_inventory_2022.csv; scripts are based on those written by Ken Schackart at https://github.com/globalbiodata/inventory_2022/blob/main/analysis/location_information.R
-## Output file(s): new_biodata_resources_2024_unaugmented.csv, new_biodata_resources_2024_augmented.csv, url_countries_new_resources_2024.jpeg, 
+## Input file(s): predictions_final_2024-07-12.csv, final_inventory_2022.csv; scripts based on those written by Ken Schackart at https://github.com/globalbiodata/inventory_2022/blob/main/analysis/location_information.R
+## Output file(s): new_biodata_resources_2024_unaugmented.csv, new_biodata_resources_2024_augmented.csv, auth_countries_new_resources_2024.jpeg, url_countries_new_resources_2024.jpeg, 
 
 library(tidyverse)
 library(countrycode)
