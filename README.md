@@ -32,3 +32,4 @@
 * To do: 
   * Analyze updated metadata for 3112 resources identified in 2022 inventory, e.g., changes in citations and URL status
   * Other? Funders?
+  * Deposit updated inventory file(s) and manual review guide in Zenodo
