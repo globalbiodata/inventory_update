@@ -7,6 +7,7 @@
 ### Result: 661 New Resources Identified
 
 * The pipeline was rerun for years 2022 and 2023, with 661 new biodata resources found. These are in addition to the 3112 resources found in the original 2022 inventory.
+  * file ***predictions_final_2024-07-12.CSV*** contain all resources, from 2011-2023
 * *NOTE* - preliminary result; not yet verified
 
 ### Process:
