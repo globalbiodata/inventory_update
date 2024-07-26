@@ -37,11 +37,11 @@
         * *India (33)* 
         * *Germany (17)* 
         * *Canada (12)* 
-      * Notes on debatable decisions: 
+      * Notes on augmentation 
         1) Provision of input files and scripts allows for reproducibility but these scripts will not be generalizable for future updates! Data and code must be reviewed/edited for any future updates to ensure countries are not missed, etc.
       * Plotted maps (jpegs) using new_biodata_resources_2024_augmented.csv
   
 * To do: 
   * Analyze updated metadata for 3112 resources identified in 2022 inventory, e.g., changes in citations and URL status?
   * Other analyses? Funders?
-  * Deposit updated inventory file(s) and manual review guide in GBC Collection in as V2 in Zenodo 
+  * Deposit updated inventory file and manual review guide in GBC Collection in (as V2s) in Zenodo 
