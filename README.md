@@ -14,12 +14,11 @@
 -   Started with original repo: <https://github.com/globalbiodata/inventory_2022>
     -   Repeated ML pipeline using Google Colab via updating_inventory.ipyn (updated by KES for python packages in Colab)
     -   Manually reviewed flagged results
-        -   Initial inventory for manual review file:
-        -   Completed manual review file:
+        -   Completed manual review file: ***predictions_v6.csv***
         -   Optional: Use STEP_1_precheck_manual_reviewed.R to check that all flagged IDs have been reviewed with appropriate values
         -   Revision to Process
             -   Removing strings of special characters that prevented the rest of the pipeline from running
-            -   Changes resulted in a V2 of the "Manual Review Process for the Biodata Resource Inventory" <https://doi.org/10.5281/zenodo.17644392>
+            -   Changes resulted in a V2 of Manual Review Process, also in Zenodo at: <https://doi.org/10.5281/zenodo.17644392>
     -   Completed post-processing pipeline
 
 ### Exploratory Analysis:
